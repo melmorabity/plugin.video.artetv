@@ -6,7 +6,7 @@ This add-on provides access to the [Arte](https://www.arte.tv/) live and catchup
 Dependencies
 ------------
 
-* Kodi 18 or higher
+* Kodi 19 or higher
 * script.module.dateutil
 * script.module.inputstreamhelper
 * script.module.requests
