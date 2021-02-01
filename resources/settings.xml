@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30100">
+      <setting id="language" type="select" label="30101" values="de|en|es|fr|it|pl" />
+    </category>
+</settings>
